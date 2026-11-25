@@ -13,7 +13,7 @@ tiktok video downloader, download 1 or many videos at once by pasting the link o
 
 ```bash
 git clone https://github.com/hiiell/Tiktok-batchDownloaderV2.git
-cd tiktok-batch-downloader-(terminal)
+cd Tiktok-batchDownloaderV2
 pip install -r requirements.txt
 ```
 ## Third-Party Services
